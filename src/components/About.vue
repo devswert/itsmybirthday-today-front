@@ -14,6 +14,14 @@
             <p>
               This project is stupid but beautiful, inspired for the great site <a href="https://isitchristmas.com/" target="_blank">Is It Christmas?</a>
             </p>
+
+            <p>
+              Our speacial thanks to:
+              <ul>
+                <li><a href="https://github.com/papercss/papercss" target="_blank">Paper CSS</a> for make a great UI</li>
+                <li><a href="https://codepen.io/jonathanbell/pen/OvYVYw" target="_blank">This guy</a> how make a confetti animation and we adapted to Vue</li>
+              </ul>
+            </p>
           </article>
         </div>
         <div class="row flex-edges">

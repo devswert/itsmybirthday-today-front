@@ -17,3 +17,8 @@ yarn run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+## Thanks!
+
+* [Paper CSS](https://github.com/papercss/papercss) for make a great UI
+* [This Guy](https://codepen.io/jonathanbell/pen/OvYVYw) how make a confetti animation and we adapted to Vue
